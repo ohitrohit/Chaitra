@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49424" started-at="2023-03-20T13:55:37 IST" finished-at="2023-03-20T13:56:26 IST">
+    <groups>
+      <group name="regressionsuite">
+        <method signature="CreateContactWithOrganizationFinalScriptTest.createContactWithOrg()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="createContactWithOrg" class="vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest"/>
+      </group> <!-- regressionsuite -->
+    </groups>
+    <test name="Default test" duration-ms="49424" started-at="2023-03-20T13:55:37 IST" finished-at="2023-03-20T13:56:26 IST">
+      <class name="vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest">
+        <test-method status="PASS" signature="bsConfig()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="bsConfig" is-config="true" duration-ms="4" started-at="2023-03-20T13:55:37 IST" finished-at="2023-03-20T13:55:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method status="PASS" signature="bcConfig()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="bcConfig" is-config="true" duration-ms="8385" started-at="2023-03-20T13:55:37 IST" finished-at="2023-03-20T13:55:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method status="PASS" signature="bmConfig()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="bmConfig" is-config="true" duration-ms="6732" started-at="2023-03-20T13:55:45 IST" finished-at="2023-03-20T13:55:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method status="PASS" signature="createContactWithOrg()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="createContactWithOrg" duration-ms="31176" started-at="2023-03-20T13:55:52 IST" finished-at="2023-03-20T13:56:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrg -->
+        <test-method status="PASS" signature="amConfig()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="amConfig" is-config="true" duration-ms="1970" started-at="2023-03-20T13:56:23 IST" finished-at="2023-03-20T13:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method status="PASS" signature="acConfig()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="acConfig" is-config="true" duration-ms="833" started-at="2023-03-20T13:56:25 IST" finished-at="2023-03-20T13:56:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method status="PASS" signature="asConfig()[pri:0, instance:vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest@5579bb86]" name="asConfig" is-config="true" duration-ms="0" started-at="2023-03-20T13:56:27 IST" finished-at="2023-03-20T13:56:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vTiger.Contacts.CreateContactWithOrganizationFinalScriptTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
